@@ -1,23 +1,7 @@
 # privacy-policy
 
-
-Welcome!
-Enter your details below to create your account.
-Email
-
-Password
-
-Retype Password
-
-Must contain at least;
-Must include at least one uppercase letter (A-Z).
-Must include at least one lowercase letter (a-z).
-Must include at least one numeric digit (0-9).
-Must include at least one special character (e.g., !@#$%^&*).
-By signing up, I agree to Plan Do's terms & conditions and privacy policy
-Privacy Policy for PlanDo
 What this policy covers
-Your privacy is important to us. This policy explains how we, Proteus-DT Sdn Bhd, collect, use, share, and protect your personal information when you use PlanDo. It is designed to help you understand:
+Your privacy is important to us. This policy explains how we, Proteus-DT Sdn Bhd, collect, use, share, and protect your personal information when you use this system. It is designed to help you understand:
 What information we collect about you
 How we use the information we collect
 How we disclose or share information
@@ -28,14 +12,14 @@ International data transfers
 Other important privacy information
 1. Information we collect
 Information you provide to us:
-Account Information: Name, email address, and other contact details when you register or use PlanDo.
+Account Information: Name, email address, and other contact details when you register or use this system.
 Project Information: Data such as project names, task details, due dates, and team communications that you create or upload to the platform.
 Information we collect automatically::
-Usage Data: Information about your interactions with PlanDo, including log-in times, features used, project activities, and performance metrics.
+Usage Data: Information about your interactions with this system, including log-in times, features used, project activities, and performance metrics.
 Device Information: Information about the device(s) you use, including hardware model, operating system, browser type, and IP address.
 Cookies & Tracking Technologies: We use cookies to track your preferences and usage for enhanced functionality and analytical purposes.
 2. How we use the information we collect
-We use your information to provide, operate, improve, and personalize PlanDo. This includes:
+We use your information to provide, operate, improve, and personalize this system. This includes:
 Service Delivery: Using your information to set up and manage your account, deliver project management functionalities, and offer support.
 Communication: Sending you important updates, transactional messages (e.g., account-related notifications), or marketing content if you have opted in.
 Improvements: Analyzing usage data to enhance the platform, improve user experience, and develop new features.
@@ -43,7 +27,7 @@ Compliance & Legal: Ensuring compliance with applicable laws, enforcing terms of
 3. How we share the information we collect
 We will not sell your personal information. However, we may share it in the following circumstances:
 Service Providers: We work with third-party service providers who may need access to your data to provide services on our behalf.
-Business Transfers: If PlanDo undergoes a merger, acquisition, or asset sale, your information may be transferred as part of the transaction.
+Business Transfers: If this system undergoes a merger, acquisition, or asset sale, your information may be transferred as part of the transaction.
 Legal Requirements: We may disclose information if required by law, such as in response to legal processes or government requests.
 4. How we store and secure information
 We take security seriously and implement industry-standard measures to protect your personal information:
